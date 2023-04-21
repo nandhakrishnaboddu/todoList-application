@@ -1,0 +1,109 @@
+.todo-main-bg-container {
+    background-color: #FFC0CB;
+    height: 100vh;
+}
+
+.main-heading {
+    text-align: Center;
+    font-family: lucida;
+    color: #C71585;
+    font-weight: bold;
+    font-style: normal;
+    font-size: 40px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+.create-task-heading {
+    text-align: left;
+    font-family: "Roboto";
+    color: #ff1493;
+    font-weight: bold;
+    font-style: normal;
+    font-size: 35px;
+    margin-top: 20px;
+    margin-bottom: 10px;
+
+}
+
+.task-heading {
+    text-align: left;
+    font-family: "Roboto";
+    color: #ff1493;
+    font-weight: normal;
+    font-style: normal;
+    font-size: 35px;
+    margin-top: 20px;
+    margin-bottom: 10px;
+
+}
+
+.userinput {
+    width: 100%;
+    border-style: solid;
+    border-color: #C71585;
+    border-width: 2px;
+    border-radius: 10px;
+    background-color: white;
+    margin-top: 10px;
+    margin-bottom: 25px;
+    padding: 15px;
+    font-size: 25px;
+}
+
+.addbutton {
+    border-width: 0px;
+    border-radius: 5px;
+    background-color: #C71585;
+    color: white;
+    padding: 10px 20px 10px 20px;
+    font-size: 22px;
+    margin-bottom: 15px;
+}
+
+.todo-item-conatainer {
+    margin-top: 15px;
+    padding: 5px;
+}
+
+.checkbox-input {
+    height: 20px;
+    width: 20px;
+    margin-top: 12px;
+    margin-bottom: 10px;
+    margin-right: 5px;
+}
+
+.label-container {
+    background-color: #FF69B4;
+    border-radius: 8px 0px 0px 8px;
+    border-width: 0px 0pc 0px 5px;
+    padding-left: 9px;
+    border-style: solid;
+    border-color: #C71585;
+    width: 100%;
+}
+
+.checkbox-label {
+    padding-left: 5px;
+    font-family: Roboto;
+    color: #C71585;
+    font-size: 24px;
+    padding-top: 2px;
+    margin-top: 4px;
+    width: 82%;
+}
+
+.delete-icon-container {
+    text-align: center;
+    width: 18%;
+    padding: 10px;
+}
+
+.delete-icon {
+    font-size: 30px;
+}
+
+.checked {
+    text-decoration: line-through;
+}
